@@ -4,6 +4,7 @@
 - :black_square_button: HTTP2
 - :black_square_button: Websocket
 - :black_square_button: PWA/SPA architecture
+- :black_square_button: AWS
 - :black_square_button: [Lerna](https://github.com/lerna/lerna) - A tool for managing JavaScript projects with multiple packages
 - :black_square_button: More Advanced in Webpack
 - :black_square_button: More Advanced in Babel
