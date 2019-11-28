@@ -10,3 +10,5 @@
 - :black_square_button: [Mobx](https://mobx.js.org) - Simple, scalable state management
 - :white_check_mark: [GraphQL](https://graphql.org) in server and client (Cost: 3 Days)
 - :black_square_button: [Relay](https://relay.dev) - A JavaScript framework for building data-driven applications with GraphQL
+- :black_square_button: [Bulma](https://bulma.io) - CSS framework based on Flexbox
+- :black_square_button: [Tailwind](https://tailwindcss.com) - A utility-first CSS framework for rapidly building
