@@ -1,4 +1,6 @@
 # Frontend Stack To Learn In 2019
+
+### Check List (0/):
 - [ ] [Lerna](https://github.com/lerna/lerna) - A tool for managing JavaScript projects with multiple packages
 - [ ] More Advanced in webpack
 - [ ] More Advanced in Babel
