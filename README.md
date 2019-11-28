@@ -1,6 +1,8 @@
 # Frontend Stack To Learn In 2019
 
 ### Check List (1/):
+- :black_square_button: HTTP2
+- :black_square_button: Websocket
 - :black_square_button: [Lerna](https://github.com/lerna/lerna) - A tool for managing JavaScript projects with multiple packages
 - :black_square_button: More Advanced in Webpack
 - :black_square_button: More Advanced in Babel
@@ -12,3 +14,4 @@
 - :black_square_button: [Relay](https://relay.dev) - A JavaScript framework for building data-driven applications with GraphQL
 - :black_square_button: [Bulma](https://bulma.io) - CSS framework based on Flexbox
 - :black_square_button: [Tailwind](https://tailwindcss.com) - A utility-first CSS framework for rapidly building
+- :black_square_button: Setting up Jenkins basically
