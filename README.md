@@ -3,6 +3,7 @@
 ### Check List (1/):
 - :black_square_button: HTTP2
 - :black_square_button: Websocket
+- :white_check_mark: [Firebase](https://firebase.google.com/) SDK and Cloud Firestore (Cost: 12 Days)
 - :black_square_button: PWA/SPA architecture
 - :black_square_button: AWS
 - :black_square_button: [Lerna](https://github.com/lerna/lerna) - A tool for managing JavaScript projects with multiple packages
