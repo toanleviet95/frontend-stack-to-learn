@@ -1,4 +1,4 @@
-# Frontend Stack To Learn In 2019
+# Frontend Stack To Learn
 
 ### Check List (1/17):
 - :black_square_button: HTTP2
