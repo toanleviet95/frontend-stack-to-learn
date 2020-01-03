@@ -1,6 +1,6 @@
 # Frontend Stack To Learn In 2019
 
-### Check List (1/):
+### Check List (1/17):
 - :black_square_button: HTTP2
 - :black_square_button: Websocket
 - :white_check_mark: [Firebase](https://firebase.google.com/) SDK and Cloud Firestore (Cost: 12 Days)
