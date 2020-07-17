@@ -1,6 +1,6 @@
 # Frontend Stack To Learn
 
-### Check List (6/20):
+### Check List (6/21):
 - :black_square_button: HTTP2
 - :black_square_button: Websocket
 - :white_check_mark: [Firebase](https://firebase.google.com/) SDK and Cloud Firestore (Cost: 12 Days)
@@ -21,3 +21,4 @@
 - :black_square_button: [Bulma](https://bulma.io) - CSS framework based on Flexbox
 - :white_check_mark: [Tailwind](https://tailwindcss.com) - A utility-first CSS framework for rapidly building (Cost: 3 Days)
 - :black_square_button: Setting up Jenkins basically
+- :black_square_button: [Vue.js V2](https://vuejs.org/v2/guide/comparison.html) - The Progressive JavaScript Framework
