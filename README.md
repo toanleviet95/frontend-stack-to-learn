@@ -22,3 +22,4 @@
 - :white_check_mark: [Tailwind](https://tailwindcss.com) - A utility-first CSS framework for rapidly building (Cost: 3 Days)
 - :black_square_button: Setting up Jenkins basically
 - :black_square_button: [Vue.js V2](https://vuejs.org/v2/guide/comparison.html) - The Progressive JavaScript Framework
+- :white_check_mark: [Aleph.js](https://alephjs.org) - The React Framework in Deno
