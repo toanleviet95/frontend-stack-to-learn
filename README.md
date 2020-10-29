@@ -1,6 +1,6 @@
 # Frontend Stack To Learn
 
-### Check List (6/22):
+### Check List (7/22):
 - :black_square_button: HTTP2
 - :black_square_button: Websocket
 - :white_check_mark: [Firebase](https://firebase.google.com/) SDK and Cloud Firestore (Cost: 12 Days)
@@ -12,7 +12,7 @@
 - :white_check_mark: [Parcel](https://parceljs.org) - A web application bundler with fast performance and requires zero configuration (Cost: 1 Day)
 - :white_check_mark: [Next.js](https://nextjs.org/) - React framework for server rendering (Cost: 8 Days)
 - :black_square_button: [Flow](https://flow.org/en)/[TypeScript](https://www.typescriptlang.org/) - A static type checker for JS
-- :black_square_button: [Jest](https://jestjs.io) + [Enzyme](https://airbnb.io/enzyme) - JS testing utility
+- :white_check_mark: [Jest](https://jestjs.io) + [Enzyme](https://airbnb.io/enzyme) - JS testing utility
 - :black_square_button: [PostCSS](https://postcss.org) - A tool for transforming CSS with JavaScript
 - :black_square_button: [Mobx](https://mobx.js.org) - Simple, scalable state management for React
 - :white_check_mark: [Recoil](https://recoiljs.org) - New state management library for React in 2020 (Cost: 2 Days)
