@@ -1,6 +1,6 @@
 # Frontend Stack To Learn
 
-### Check List (7/24):
+### Check List (9/24):
 - :black_square_button: HTTP2
 - :black_square_button: Websocket
 - :white_check_mark: [Firebase](https://firebase.google.com/) SDK and Cloud Firestore (Cost: 12 Days)
@@ -25,3 +25,4 @@
 - :black_square_button: [Vue.js V2](https://vuejs.org/v2/guide/comparison.html) - The Progressive JavaScript Framework
 - :black_square_button: [Aleph.js](https://alephjs.org) - The React Framework in Deno
 - :white_check_mark: [Micro frontends with webpack 5](https://webpack.js.org/concepts/module-federation) - Module Federation is a JavaScript architecture invented by Zack Jackson (Cost: 1 Day)
+- :white_check_mark: [React Tracked](https://react-tracked.js.org) - Optimize re-renders for useState/useReducer, React Redux, Zustand and others (Cost: 1 Day)
