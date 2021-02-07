@@ -24,6 +24,6 @@
 - :black_square_button: Setting up Jenkins basically
 - :black_square_button: [Vue.js V2](https://vuejs.org/v2/guide/comparison.html) - The Progressive JavaScript Framework
 - :black_square_button: [Aleph.js](https://alephjs.org) - The React Framework in Deno
-- :white_check_mark: Micro frontends with [Module Federation - webpack 5](https://webpack.js.org/concepts/module-federation) - Module Federation is a JavaScript architecture invented by Zack Jackson (Cost: 1 Day)
+- :white_check_mark: Micro frontends with [Module Federation in webpack 5](https://webpack.js.org/concepts/module-federation) - Module Federation is a JavaScript architecture invented by Zack Jackson (Cost: 1 Day)
 - :white_check_mark: Micro frontends with [bit.dev](https://bit.dev) - Bit is a scalable and collaborative way to build and reuse components (Cost: 2 Days)
 - :white_check_mark: [React Tracked](https://react-tracked.js.org) - Optimize re-renders for useState/useReducer, React Redux, Zustand and others (Cost: 1 Day)
