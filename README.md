@@ -1,6 +1,6 @@
 # Frontend Stack To Learn
 
-### Check List (10/27):
+### Check List (12/27):
 - :black_square_button: HTTP2
 - :black_square_button: Websocket
 - :white_check_mark: [Firebase](https://firebase.google.com/) SDK and Cloud Firestore (Cost: 12 Days)
@@ -27,5 +27,5 @@
 - :white_check_mark: Micro frontends with [Module Federation in webpack 5](https://webpack.js.org/concepts/module-federation) - Module Federation is a JavaScript architecture invented by Zack Jackson (Cost: 1 Day)
 - :white_check_mark: Micro frontends with [bit.dev](https://bit.dev) - Bit is a scalable and collaborative way to build and reuse components (Cost: 2 Days)
 - :white_check_mark: [React Tracked](https://react-tracked.js.org) - Optimize re-renders for useState/useReducer, React Redux, Zustand and others (Cost: 1 Day)
-- :black_square_button: [Storybook](https://storybook.js.org) - An open source tool for developing UI components in isolation for React, Vue, Angular, and more
-- :black_square_button: [Linaria](https://github.com/callstack/linaria/blob/master/docs/BENEFITS.md) - Zero-runtime CSS in JS library
+- :white_check_mark: [Storybook](https://storybook.js.org) - An open source tool for developing UI components in isolation for React, Vue, Angular, and more (Cost: 3 Days)
+- :white_check_mark: [Linaria](https://github.com/callstack/linaria/blob/master/docs/BENEFITS.md) - Zero-runtime CSS in JS library (Cost: 1 Day)
