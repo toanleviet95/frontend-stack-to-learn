@@ -29,3 +29,4 @@
 - :white_check_mark: [React Tracked](https://react-tracked.js.org) - Optimize re-renders for useState/useReducer, React Redux, Zustand and others (Cost: 1 Day)
 - :white_check_mark: [Storybook](https://storybook.js.org) - An open source tool for developing UI components in isolation for React, Vue, Angular, and more (Cost: 3 Days)
 - :white_check_mark: [Linaria](https://github.com/callstack/linaria/blob/master/docs/BENEFITS.md) - Zero-runtime CSS in JS library (Cost: 1 Day)
+- :white_check_mark: Register a npm package - https://www.npmjs.com/package/my-chotot-design-system (Cost: 1 Day)
