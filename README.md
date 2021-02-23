@@ -1,8 +1,10 @@
 # Frontend Stack To Learn
 
-### Check List (14/28):
-- :black_square_button: HTTP2
+### Check List (15/30):
+- :white_check_mark: HTTP vs HTTP/2 (Cost: 1 Day)
 - :black_square_button: Websocket
+- :black_square_button: Web Caching
+- :black_square_button: Web RTC
 - :white_check_mark: [Firebase](https://firebase.google.com/) SDK and Cloud Firestore (Cost: 12 Days)
 - :black_square_button: PWA/SPA architecture
 - :black_square_button: AWS
